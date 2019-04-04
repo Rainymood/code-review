@@ -12,7 +12,6 @@ whom are *eager to learn* and implement best practices.
 
 This document is a living document and subject to change. 
 * What is code review 
-
 #+BEGIN_QUOTE
 "Code Review, or Peer Code Review, is the act of consciously and
 systematically convening with one’s fellow programmers to check each
@@ -22,7 +21,8 @@ other’s code for mistakes."
 #+END_QUOTE
 
 * Why is code review important 
-Code review is important. To stress this importance let me open up with a quote from the founder of StackOverflow: 
+Code review is important. To stress this importance let me open up
+with a quote from the founder of StackOverflow:
 #+BEGIN_QUOTE
 "I believe that peer code reviews are the single biggest thing you can
 do to improve your code."
