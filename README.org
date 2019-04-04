@@ -1,9 +1,25 @@
 #+TITLE:	Code Review
 #+AUTHOR:	Jan Meppe
 
-* Code Review 
+* What is this 
+This document describes /what/ code review is, /why/ it is important,
+and /what/ steps organisations can take to implement code review in
+their organisations.
 
-Test
+The intended audience for this document are tech-savvy people
+without a proper software engineering background (like myself) but
+whom are *eager to learn* and implement best practices. 
+
+This document is a living document and subject to change. 
+* What is code review 
+#+BEGIN_QUOTE
+I believe that peer code reviews are the single biggest thing you can
+do to improve your code ---Jeff Atwood (founder of StackOverflow) 
+#+END_QUOTE
+
+* Other notes 
+- `<q<TAB>` to insert a quote 
+
 
 
 
