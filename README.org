@@ -13,18 +13,30 @@ whom are *eager to learn* and implement best practices.
 This document is a living document and subject to change. 
 * What is code review 
 
+
+Code Review, or Peer Code Review, is the act of consciously and
+systematically convening with one’s fellow programmers to check each
+other’s code for mistakes ... 
+
+[1] Thing 
+
+[1] https://smartbear.com/learn/code-review/what-is-code-review/
+
+
+
+
 * Why is code review important 
 Code review is important. To stress this importance let me open up with a quote from the founder of StackOverflow: 
 #+BEGIN_QUOTE
-I believe that peer code reviews are the single biggest thing you can
-do to improve your code 
+"I believe that peer code reviews are the single biggest thing you can
+do to improve your code."
 
 ---Jeff Atwood (founder of StackOverflow) 
 #+END_QUOTE
 Here's another quote from Steve McConnell
 #+BEGIN_QUOTE
-Individual inspections typically catch about 60% of all bugs/defects,
-which is more than any other technique
+"Individual inspections typically catch about 60% of all bugs/defects,
+which is more than any other technique."
 
 ---Steve McConnell (author of Code Complete)
 #+END_QUOTE
