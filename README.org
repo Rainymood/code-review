@@ -13,17 +13,13 @@ whom are *eager to learn* and implement best practices.
 This document is a living document and subject to change. 
 * What is code review 
 
-
-Code Review, or Peer Code Review, is the act of consciously and
+#+BEGIN_QUOTE
+"Code Review, or Peer Code Review, is the act of consciously and
 systematically convening with one’s fellow programmers to check each
-other’s code for mistakes ... 
+other’s code for mistakes."
 
-[1] Thing 
-
-[1] https://smartbear.com/learn/code-review/what-is-code-review/
-
-
-
+---Smartbear.com [1] 
+#+END_QUOTE
 
 * Why is code review important 
 Code review is important. To stress this importance let me open up with a quote from the founder of StackOverflow: 
@@ -41,8 +37,12 @@ which is more than any other technique."
 ---Steve McConnell (author of Code Complete)
 #+END_QUOTE
 
+* Sources 
+[1] https://smartbear.com/learn/code-review/what-is-code-review/
+
 * Other notes 
-- `<q<TAB>` to insert a quote 
+- `<q<TAB>` to insert a quote
+- TODO: Figure out how to do [1] references in org-mode 
 
 
 
